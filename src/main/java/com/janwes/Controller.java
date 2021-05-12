@@ -15,4 +15,8 @@ public class Controller {
     public void insert() {
         System.out.println("insert");
     }
+
+    public void delete() {
+        System.out.println("delete");
+    }
 }
