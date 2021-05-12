@@ -11,4 +11,8 @@ public class Controller {
     public void save() {
         System.out.println("save");
     }
+
+    public void insert() {
+        System.out.println("insert");
+    }
 }
